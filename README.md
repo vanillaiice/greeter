@@ -3,6 +3,8 @@ A simple greeter program written in V
 
 # Usage
 ```
-greeter Jotaro
-// output: Hello, Jotaro
+> ./greeter
+// output:
+// What is your name: Jotaro Kujo Joestar
+// Hello, Jotaro Kujo Joestar !
 ```
