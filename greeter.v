@@ -1,5 +1,8 @@
 module main
 
+import os { input }
+
 fn main() {
-	println('Hello World!')
+	mut name := input('What is your name: ')
+	println('Hello, $name !')
 }
