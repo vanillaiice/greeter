@@ -1,6 +1,13 @@
 # Greeter
 A simple greeter program written in V
 
+# Installation
+```
+> git clone https://github.com/vanillaiice/greeter
+> cd greeter
+> v .
+```
+
 # Usage
 ```
 > ./greeter
