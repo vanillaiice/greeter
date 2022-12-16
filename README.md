@@ -2,6 +2,8 @@
 A simple greeter program written in V
 
 # Installation
+You need V installed on your machine to build this program. You can then do:
+
 ```
 > git clone https://github.com/vanillaiice/greeter
 > cd greeter
