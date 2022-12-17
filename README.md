@@ -17,6 +17,13 @@ You need V installed on your machine to build this program. You can then do:
 // What is your name: Jotaro Kujo Joestar
 // Hello, Jotaro Kujo Joestar !
 ```
+You can also pass the name as arguments:
+
+```
+> ./greeter Crazy Diamond
+// output:
+// Sup, Crazy Diamond !
+```
 
 # License
 
